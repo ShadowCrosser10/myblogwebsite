@@ -1,0 +1,78 @@
+
+input
+{
+    background: grey
+}
+
+.TravelStuff img{
+width:100%;
+height:auto;
+}
+
+.MovieStuff {
+font-size:20px;
+padding:6px 22px;
+border-radius:10px;
+margin-bottom:15px;
+width:100%;
+display:inline-block;
+}
+
+.MovieStuff i {
+float:right;
+    
+}
+
+.P_Modal {
+
+}
+
+.modal-content {
+margin-top:100px;
+
+}
+.books {
+display:inline-block;
+}
+
+.P_Modal {
+margin-top:10px;
+}
+
+.modal-body {
+text-align: center;
+}
+
+
+#hi {
+    text-align:center;
+}
+
+.Headsandtitles {
+font-family: 'Cinzel Decorative', cursive;
+
+}
+
+.environment_Li {
+    margin-top:13px;
+}
+
+.environment_Li h4 {
+padding:8px;
+border-bottom: 1px solid white;
+}
+
+.line {
+width:70px;
+height:6px;
+background-color:black;
+margin:4px auto;
+}
+
+.Paras {
+font-family: 'Cinzel', serif;
+}
+
+#Contact h1 {
+text-align:center;
+}
